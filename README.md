@@ -78,5 +78,5 @@ These diagrams collectively provide a comprehensive view of the system's functio
 ### 👥 | Team Members
 
 *   Akhil Kannan (🙋🏻‍♂️!)
-*   Abhay Mathummal 
-*   Josewin Anto - (github.com/jjanto2k5)
+*   Abhay Mathummal (github.com/Amathummal)
+*   Josewin Anto (github.com/jjanto2k5)
