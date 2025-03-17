@@ -1,5 +1,5 @@
 ## Qubit Games 🎲
-
+![JavaLogo-ezgif com-resize (1)](https://github.com/user-attachments/assets/ab487e8c-cfea-496c-8cf2-f05dcf66f6e7)
 ### 🪟 | Overview
 
 Qubit Games is a collection of classic games implemented in Java to showcase the principles of Object-Oriented Programming (OOP). This project includes:
