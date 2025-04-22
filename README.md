@@ -1,5 +1,8 @@
 ## Qubit Games 🎲
 ![JavaLogo-ezgif com-resize (1)](https://github.com/user-attachments/assets/ab487e8c-cfea-496c-8cf2-f05dcf66f6e7)
+
+---
+
 ### 🪟 | Overview
 
 Qubit Games is a collection of classic games implemented in Java to showcase the principles of Object-Oriented Programming (OOP). This project includes:
@@ -9,6 +12,8 @@ Qubit Games is a collection of classic games implemented in Java to showcase the
 *   Snake Game 🐍
 
 Each game is designed to demonstrate various OOP concepts such as inheritance, polymorphism, encapsulation, and abstraction.
+
+---
 
 ### ✨ | Features
 
@@ -25,6 +30,8 @@ Each game is designed to demonstrate various OOP concepts such as inheritance, p
     *   Score tracking based on snake length.
     *   Collision detection (with self and walls).
 
+---
+
 ### 📙 | Implemented OOP Principles
 
 This project demonstrates the following OOP principles:
@@ -35,6 +42,8 @@ This project demonstrates the following OOP principles:
 *   **Polymorphism:** Allowing game objects to adapt their behavior based on the current context.
 *   **Exception Handling:** Implementing robust error management for seamless user experiences.
 
+---
+
 ### 🔷 | UML Diagrams
 
 - **Use Case Diagram**: This diagram highlights the main interactions between users and the system, providing a clear overview of how users will engage with the Qubit Games application.
@@ -42,6 +51,8 @@ This project demonstrates the following OOP principles:
 - **Sequence Diagram**: This diagram details the interactions between objects over time, helping to clarify how different components of the game communicate with each other.
 
 These diagrams collectively provide a comprehensive view of the system's functionality and interactions.
+
+---
 
 ### 💪🏼 | Getting Started
 
@@ -63,17 +74,23 @@ These diagrams collectively provide a comprehensive view of the system's functio
 2.  Run the main class.
 3.  Follow the on-screen instructions to play the game.
 
+---
+
 ### 🕹️ | Game Controls
 
 *   **Flappy Bird:** Use the space bar to make the bird fly up.
 *   **Tic-Tac-Toe:** Click on the desired cell to place your mark.
 *   **Snake Game:** Use the arrow keys to control the snake's movement.
 
+---
+
 ### 🚧 | Challenges Faced
 
 *   **Gameplay Mechanics:** Designing intuitive and engaging gameplay for each game.
 *   **User Interface:** Developing a visually appealing and responsive user interface.
 *   **Performance Optimization:** Ensuring efficient memory management and frame rate for smooth gameplay.
+
+---
 
 ### 👥 | Team Members
 
